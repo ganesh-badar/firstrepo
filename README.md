@@ -1,3 +1,3 @@
-# firstrepo
-forpractise
-<p>this is demo for github</p>
+# apnacollege
+this is my first repository
+<p>Author ganesh badar</p>
